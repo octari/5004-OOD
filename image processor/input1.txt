@@ -1,0 +1,11 @@
+
+generate rainbow.png
+rainbow 200 300 vertical
+
+generate rainbow-default.png
+rainbow 400 400
+
+generate flag.png
+flag Greece 8
+blur
+save greece-blur.png

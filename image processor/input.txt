@@ -1,0 +1,19 @@
+blur
+save a.png
+
+
+generate checkerboard.png
+checkerboard 10
+save checker-copy.png
+mosaic 1000
+save  checkerboard-copy-mosaic.png
+
+
+load manhattan.png
+save manhattan-copy.png
+mosaic 800
+sepia
+save manhattan-copy-mosaic-sepia.png
+sepia
+save manhattan-copy-mosaic-sepia-sepia.png
+
