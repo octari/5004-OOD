@@ -1,4 +1,4 @@
-# CS5004 Assignment 9
+# Image Processor
 YinrouNi ChihaoSun
 
 
